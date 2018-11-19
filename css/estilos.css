@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100px;
 }
 .fb-comments {
-    transform: translateX(-50%) translateY(450%);
+    transform: translateX(-50%) translateY(460%);
     position: absolute;
     left: 50%;
     color: #000;
